@@ -1,3 +1,6 @@
+# 💫 About Me:
+I am Srinivasan R., a passionate and dedicated Computer Science Engineering student currently pursuing my Bachelor of Engineering (B.E.) in CSE. I have a strong interest in software development, data structures, and emerging technologies. With a solid foundation in programming and problem-solving, I am eager to apply my skills in real-world projects and contribute to innovative teams.<br><br>I am currently seeking job or internship opportunities where I can grow as a developer, learn from experienced professionals, and make meaningful contributions to impactful projects. I am a quick learner, a team player, and always enthusiastic about exploring new technologies and improving my technical and communication skills.<br><br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srinivasan-r-98137528a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srinivasanramesh911@gmail.com) 
